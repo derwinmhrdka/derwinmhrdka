@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derwinmhrdka
 - 👀 I’m interested in AI, Computer Vision, Robotics, Microcontroller, and Data Science.
-- 🌱 I’m currently learning at Yogyakarta State University as Mechatronics Engineering Education Student.
+- 🌱 Bachelor Degree from Yogyakarta State University as Mechatronics Engineering Education major.
 - 💞️ I’m looking to collaborate on AI and Computer Vision.
 - 📫 visit my site on www.Teknodika.com or my Youtube Derwin Mahardika
 
